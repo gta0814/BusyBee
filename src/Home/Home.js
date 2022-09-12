@@ -93,7 +93,7 @@ export const Home = () => {
         <p style={{ lineHeight: '1.4em', fontSize: '28px' }}>
           <span>
             <span>
-              Call 403-999-9999
+              Call 403-419-6818
             </span>
           </span>
         </p>
@@ -138,7 +138,7 @@ export const Home = () => {
             {'Come visit our shop.'.toUpperCase()}
             <Row>
               <Col span="12" style={{ fontSize: '12px', marginRight: '0px', width: '100%' }}>
-                <p>Our address: Find us at 123, ABC Street. Abc 31577 CA</p>
+                <p>Our address: Find us at 5912 99 St NW, Edmonton, AB T6E 3N9, Canada</p>
               </Col>
               <Col span="12">
                 <iframe style={{ marginRight: '20px', display: 'flex' }} src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2373.501270683217!2d-113.4888836837542!3d53.495239171248734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53a018b1722368cd%3A0xbf925aa4568ac673!2s5910%2099%20St%20NW%2C%20Edmonton%2C%20AB%20T6E%203N9%2C%20Canada!5e0!3m2!1sen!2sau!4v1638009189157!5m2!1sen!2sau" width="400" height="280" allowfullscreen="" loading="lazy"></iframe>
